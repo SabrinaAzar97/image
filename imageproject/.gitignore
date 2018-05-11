@@ -1,0 +1,4 @@
+bin/
+lib/
+.idea/
+node/node_modules
